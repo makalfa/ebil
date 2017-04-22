@@ -31,13 +31,14 @@ Icon?
 Thumbs.db
 
 # Node Files #
-/sview
-/shared
+/sview/
+/shared/
+/home/attachmentsDoc/
 npm-debug.log
 
 # Coverage #
 /Connections/
-/Connections_form
+/Connections_form/
 # Typing #
 /PHPMailer/
 /typings/
